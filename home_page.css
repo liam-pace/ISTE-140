@@ -50,9 +50,15 @@ a:active {
     color: blue;
 }
 
-div, section, figure {
+section, figure, tr {
     border-style: solid;
     border-radius: 2em;
     border-color: black;
     padding: 1em;
 }
+
+img {
+    width: 95%;
+    height: auto;
+}
+
