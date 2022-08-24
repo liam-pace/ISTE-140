@@ -62,3 +62,17 @@ img {
     height: auto;
 }
 
+table {
+    border-style: solid;
+    border-color: black;
+}
+
+th {
+    border-style: dashed;
+    border-color: black;
+}
+
+td {
+    border-style: dotted;
+    border-color: black;
+}
