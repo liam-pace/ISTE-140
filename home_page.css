@@ -23,7 +23,7 @@ h1 {
     font-size: 3rem;
 }
 
-h2 {
+h2, th {
     font-size: 2.5rem;
     font-style: italic;
 }
@@ -32,7 +32,7 @@ h3 {
     font-size: 2rem;
 }
 
-p {
+p, td {
     font-size: 1.5rem;
 }
 
@@ -72,6 +72,7 @@ table {
 th {
     border-style: dashed;
     border-color: black;
+    padding: 0.5rem;
 }
 
 td {
