@@ -38,7 +38,6 @@ p, a {
 }
 
 a, a:link, a:link p {
-    text-decoration-color: #39A0ED;
     color: #39A0ED;
 }
 a:visited, a:visited p {
@@ -57,6 +56,10 @@ section, figure, tr {
     border-radius: 2em;
     border-color: black;
     padding: 1em;
+}
+
+section {
+    background-color: whitesmoke;
 }
 
 img {
