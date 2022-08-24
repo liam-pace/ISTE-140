@@ -81,3 +81,7 @@ td {
     border-style: dotted;
     border-color: black;
 }
+
+ul, ol {
+    margin: 2em;
+}
