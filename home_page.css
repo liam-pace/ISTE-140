@@ -23,19 +23,19 @@ h1 {
     font-size: 3rem;
 }
 
-h2, th {
+h2 {
     font-size: 2.5rem;
     font-style: italic;
 }
 
 h3 {
     font-size: 2rem;
+    font-weight: bold;
 }
 
-p, td {
+p, a {
     font-size: 1.5rem;
 }
-
 
 a, a:link, a:link p {
     text-decoration-color: #39A0ED;
@@ -62,22 +62,6 @@ section, figure, tr {
 img {
     width: min(100%, 720px);
     height: auto;
-}
-
-table {
-    border-style: solid;
-    border-color: black;
-}
-
-th {
-    border-style: dashed;
-    border-color: black;
-    padding: 0.5rem;
-}
-
-td {
-    border-style: dotted;
-    border-color: black;
 }
 
 ul, ol {
