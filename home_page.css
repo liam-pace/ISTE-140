@@ -1,5 +1,5 @@
 * {
-    margin: 2em;
+    margin: 1em;
 }
 
 h1, h2, h3, p, a {
@@ -48,4 +48,11 @@ a:hover {
 /* selected link */
 a:active {
     color: blue;
+}
+
+div, section, figure {
+    border-style: solid;
+    border-radius: 2em;
+    border-color: black;
+    padding: 1em;
 }
